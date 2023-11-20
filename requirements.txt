@@ -1,8 +1,8 @@
-import urllib3==1.26.6
-import python-dotenv==0.21.0
-import elevenlabs
-import subprocess
-import requests
-import pyperclip
-import os.path
-import os
+urllib3==1.26.6
+python-dotenv==0.21.0
+elevenlabs
+subprocess
+requests
+pyperclip
+os.path
+os
